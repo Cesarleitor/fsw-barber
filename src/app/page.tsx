@@ -1,10 +1,7 @@
-"use client"
-
-import { useState } from "react";
 import { Button } from "./components/ui/button";
 
 const Home = () => {
-  return <Button>teste</Button>
+  return<Button>teste</Button>
 };
 
 export default Home;
